@@ -1,5 +1,0 @@
-# ninja log v5
-3	588	7195937489412688	CMakeFiles/Tutorial.dir/main.cpp.obj	a4ea942b3e45f5cd
-592	669	7195937489881407	utils/utils.lib	e9f0c13ec94007eb
-6	592	7195937489412688	utils/CMakeFiles/utils.dir/utils.cpp.obj	3f88ac1a7a1fcaa8
-669	899	7195937491602728	Tutorial.exe	3c95411e2d8c9d70
